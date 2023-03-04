@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Just TODO it!</string>
+
+    <string name="add_button_text">Добавить</string>
+    <string name="edit_item_text">Редактировать</string>
+    <string name="delete_item_text">Удалить</string>
+
+    <string name="importance_low_text">Низкий</string>
+    <string name="importance_medium_text">Средний</string>
+    <string name="importance_high_text">Высокий</string>
+    <string name="save_button_text">Сохранить</string>
+    <string name="note_edit_placeholder">Введите текст заметки</string>
+
+    <string name="settings_header_text">Какой ты скала сегодня?</string>
+
+    <string-array name="backgrounds">
+        <item>Крутой</item>
+        <item>АААкрокодилыбегимоты</item>
+        <item>Задумчивый</item>
+        <item>Хочу кушать</item>
+    </string-array>
+</resources>

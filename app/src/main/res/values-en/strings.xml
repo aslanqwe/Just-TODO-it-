@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Just TODO it!</string>
+
+    <string name="add_button_text">New</string>
+    <string name="edit_item_text">Edit</string>
+    <string name="delete_item_text">Delete</string>
+
+    <string name="importance_low_text">Low</string>
+    <string name="importance_medium_text">Medium</string>
+    <string name="importance_high_text">High</string>
+    <string name="save_button_text">Save</string>
+    <string name="note_edit_placeholder">Enter text of note</string>
+
+    <string name="settings_header_text">What is your Rock today?</string>
+
+    <string-array name="backgrounds">
+        <item>Cool</item>
+        <item>Aggressive</item>
+        <item>Smart</item>
+        <item>Hungry</item>
+    </string-array>
+</resources>
