@@ -85,3 +85,6 @@ Hold your finger on the note and click `Delete`
 
 ### Result:
 ![image](https://user-images.githubusercontent.com/91558943/222922860-808cf214-262b-44ff-a972-5f24f4e49453.png)
+
+## Our app supports bilingualism
+If your device is set to Russian, then the application will be in Russian. Same with English
