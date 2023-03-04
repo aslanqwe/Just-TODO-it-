@@ -36,6 +36,8 @@ By clicking on the spinner you can choose which one you Rock today
 
 ![image](https://user-images.githubusercontent.com/91558943/222922140-41b8b93e-22d9-46d1-b690-cead86384f91.png)
 
+![image](https://user-images.githubusercontent.com/91558943/222921547-89385e59-7937-4286-bc32-5de571731f23.png)
+
 * Aggressive
 
 ![image](https://user-images.githubusercontent.com/91558943/222922162-1ad68075-447b-4cbd-84a0-3df1d69a8520.png)
@@ -43,4 +45,13 @@ By clicking on the spinner you can choose which one you Rock today
 ![image](https://user-images.githubusercontent.com/91558943/222922170-24657569-d947-4c29-8002-7b609eb20ec3.png)
 
 * Smart
+
+![image](https://user-images.githubusercontent.com/91558943/222922203-5b2a31a9-def9-41a9-8605-9738d664deec.png)
+
+![image](https://user-images.githubusercontent.com/91558943/222922210-aa7f4630-fe2d-498e-b04a-5590a7078e70.png)
+
 * Hungry
+
+![image](https://user-images.githubusercontent.com/91558943/222922222-1841e0f5-3d69-47bb-b8ff-6621a120a6e6.png)
+
+![image](https://user-images.githubusercontent.com/91558943/222922236-5bcb09ec-2cde-4ea3-82f9-c918281f33f9.png)
