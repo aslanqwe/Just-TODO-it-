@@ -1,5 +1,8 @@
 # Just TODO-it!
 ## Main activity
+
+[![image](https://img.youtube.com/vi/dzdiMRovyK0/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 ![image](https://user-images.githubusercontent.com/91558943/222920975-4873c1be-b5b7-4f5e-9a5a-a3cdf45dd89b.png)
 
 Here you can add notes by clicking on the `New` button
@@ -55,3 +58,28 @@ By clicking on the spinner you can choose which one you Rock today
 ![image](https://user-images.githubusercontent.com/91558943/222922222-1841e0f5-3d69-47bb-b8ff-6621a120a6e6.png)
 
 ![image](https://user-images.githubusercontent.com/91558943/222922236-5bcb09ec-2cde-4ea3-82f9-c918281f33f9.png)
+
+## Edit and Delete activity
+You can edit your notes and delete them. To do this, just hold your finger on the note you want to delete
+
+### Example
+After you hold your finger on the note, a modal window will appear with the choice of action. `Edit` or `Delete` a note.
+
+![image](https://user-images.githubusercontent.com/91558943/222922465-1c56b5c6-48eb-4c85-8f64-2a3df32aeea2.png)
+
+### Edit note
+If you click on `Edit`, the `Add activity` will open. Here you can change the text and the importance of your note.
+
+![image](https://user-images.githubusercontent.com/91558943/222922610-fbedebf6-e46f-4521-a949-65ef3bc750d6.png)
+
+### Let's change our note
+![image](https://user-images.githubusercontent.com/91558943/222922746-226a270a-4c5c-4cf0-b666-2b5bb61c4c50.png)
+
+### Result:
+![image](https://user-images.githubusercontent.com/91558943/222922759-e9729a17-fab5-4ef9-8b00-11b842776b01.png)
+
+### Let's delete out note
+Hold your finger on the note and click `Delete`
+
+### Result:
+![image](https://user-images.githubusercontent.com/91558943/222922860-808cf214-262b-44ff-a972-5f24f4e49453.png)
