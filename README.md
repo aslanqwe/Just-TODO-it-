@@ -31,6 +31,10 @@ In the upper right corner you can click on the `...`  and go to the application 
 
 ![image](https://user-images.githubusercontent.com/91558943/222921883-1d17b1af-fb45-400c-ae8f-922261acbf0c.png)
 
+A modal window will appear with settings inscription
+
+![image](https://user-images.githubusercontent.com/91558943/222945890-a7765d06-5c07-4344-ab62-66213ba77c8d.png)
+
 ![image](https://user-images.githubusercontent.com/91558943/222921920-4cf6e27a-cdfd-4287-ae8b-69dab9cbe412.png)
 
 Here you can change the image on your main activity.
