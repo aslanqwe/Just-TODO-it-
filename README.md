@@ -1,10 +1,5 @@
 # Just TODO-it!
 ## Main activity
-When the app starts, the song "The Rock Rap" will play.
->If you click on the picture below, you will go to YouTube and you can listen to this song
-
-[![image](https://img.youtube.com/vi/dzdiMRovyK0/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
 ![image](https://user-images.githubusercontent.com/91558943/222920975-4873c1be-b5b7-4f5e-9a5a-a3cdf45dd89b.png)
 
 Here you can add notes by clicking on the `New` button
